@@ -1,16 +1,26 @@
 ## Hi there 👋
+---
+-I'm jose vargas 
+#### I’m currently working on ATM simulator 😄
 
-<!--
-**Josevar-99/Josevar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning about software develoment
 
-Here are some ideas to get you started:
+#### I’m passionate aboute play soccer and videogames
+![imagen de futbol](https://imagenes.noticiasrcn.com/cms/2025/03/20202957/gol-de-luis-diaz-vs-brasil.webp?r=4_3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m looking to collaborate with 
+
+- I’m looking for help with software development make get up my knowledge because the world demands it 
+
+- Ask me about telecomunications :relieved: beacuse i'm technician in telecomunicaions :neutral_face:
+
+- _fun fact :joy:_ sometimes I speak a lot
+
+- 😄 Pronouns: only jose :sweat_smile:
+- and then is the only thing that you need know about me :sweat_smile:
+  
+
+
+
+
+
