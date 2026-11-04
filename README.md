@@ -1,26 +1,22 @@
-## Hi there 👋
----
--I'm jose vargas 
-#### I’m currently working on ATM simulator 😄
+# Jose Vargas
 
-- I’m currently learning about software develoment
+Backend developer based in Barranquilla, Colombia. Open to junior backend roles, on-site or hybrid.
 
-#### I’m passionate aboute play soccer and videogames
-![imagen de futbol](https://imagenes.noticiasrcn.com/cms/2025/03/20202957/gol-de-luis-diaz-vs-brasil.webp?r=4_3)
+Telecommunications technician with two years supporting corporate clients at Movistar, now training in software development at Riwi. I build REST APIs with NestJS and PostgreSQL.
 
-- I’m looking to collaborate with 
+## Stack
 
-- I’m looking for help with software development make get up my knowledge because the world demands it 
+Node.js · TypeScript · NestJS · Express · Python · PostgreSQL · TypeORM · Sequelize · Docker · Git · HTML/CSS
 
-- Ask me about telecomunications :relieved: beacuse i'm technician in telecomunicaions :neutral_face:
+## Featured projects
 
-- _fun fact :joy:_ sometimes I speak a lot
+- [Workshop API](https://github.com/Josevar-99/PRUEBA-DESEMPE-O-NEST): fleet maintenance API with JWT authentication, role-based access, audit log, an API-key integration endpoint and 138 passing Postman tests. NestJS, TypeORM, PostgreSQL, Docker.
+- [Restaurant API](https://github.com/Josevar-99/api-restaurante-nestjs): REST API for restaurant menu management with validation rules, Swagger docs and Docker setup. NestJS, PostgreSQL.
+- [Clinic Inventory](https://github.com/Josevar-99/gestion-inventario-clinicas): backend for managing medication inventory across clinics. Node.js, Express, Sequelize, TypeScript.
 
-- 😄 Pronouns: only jose :sweat_smile:
-- and then is the only thing that you need know about me :sweat_smile:
-  
+## Contact
 
-
-
+- LinkedIn: [jose-vargas](https://www.linkedin.com/in/jose-vargas-6461951a1/)
+- Email: josemiguelvargas_@hotmail.com
 
 
